@@ -1,0 +1,34 @@
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC#.csproj.AssemblyReference.cache
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.Form1.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.menu.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.Properties.Resources.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC#.csproj.GenerateResource.cache
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC#.csproj.CoreCompileInputs.cache
+C:\Users\EtecVAV\Downloads\exercicioC#\bin\Debug\exercicioC#.exe.config
+C:\Users\EtecVAV\Downloads\exercicioC#\bin\Debug\exercicioC#.exe
+C:\Users\EtecVAV\Downloads\exercicioC#\bin\Debug\exercicioC#.pdb
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC#.exe
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC#.pdb
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.CalcArea.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.CalcIMC.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.OrdenaNum.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.QualiLiga.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.TipoTri.resources
+C:\Users\EtecVAV\Downloads\exercicioC#\obj\Debug\exercicioC_.MaiorMenor.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\bin\Debug\exercicioC#.exe.config
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\bin\Debug\exercicioC#.exe
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\bin\Debug\exercicioC#.pdb
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC#.csproj.AssemblyReference.cache
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.CalcArea.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.CalcIMC.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.Form1.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.MaiorMenor.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.menu.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.OrdenaNum.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.Properties.Resources.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.QualiLiga.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC_.TipoTri.resources
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC#.csproj.GenerateResource.cache
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC#.csproj.CoreCompileInputs.cache
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC#.exe
+E:\Técnico\Desenvolvimento de Sistemas\C#\exercicioC#\obj\Debug\exercicioC#.pdb

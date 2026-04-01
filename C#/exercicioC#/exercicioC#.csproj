@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4CC1D80-51F5-4CD8-BA8D-B85B971488F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>exercicioC_</RootNamespace>
+    <AssemblyName>exercicioC#</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalcArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcArea.Designer.cs">
+      <DependentUpon>CalcArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalcIMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcIMC.Designer.cs">
+      <DependentUpon>CalcIMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calcnota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calcnota.Designer.cs">
+      <DependentUpon>calcnota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaiorMenor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaiorMenor.Designer.cs">
+      <DependentUpon>MaiorMenor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrdenaNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdenaNum.Designer.cs">
+      <DependentUpon>OrdenaNum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QualificaLiga.cs" />
+    <Compile Include="QualiLiga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QualiLiga.Designer.cs">
+      <DependentUpon>QualiLiga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoTri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoTri.Designer.cs">
+      <DependentUpon>TipoTri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CalcArea.resx">
+      <DependentUpon>CalcArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalcIMC.resx">
+      <DependentUpon>CalcIMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calcnota.resx">
+      <DependentUpon>calcnota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaiorMenor.resx">
+      <DependentUpon>MaiorMenor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdenaNum.resx">
+      <DependentUpon>OrdenaNum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QualiLiga.resx">
+      <DependentUpon>QualiLiga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoTri.resx">
+      <DependentUpon>TipoTri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calcular.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\area.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fumo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangulo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xp.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
