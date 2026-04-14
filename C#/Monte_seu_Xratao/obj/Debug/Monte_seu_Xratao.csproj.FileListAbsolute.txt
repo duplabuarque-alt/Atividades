@@ -1,0 +1,10 @@
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\bin\Debug\Monte_seu_Xratao.exe.config
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\bin\Debug\Monte_seu_Xratao.exe
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\bin\Debug\Monte_seu_Xratao.pdb
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.csproj.AssemblyReference.cache
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.Form1.resources
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.Properties.Resources.resources
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.csproj.GenerateResource.cache
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.csproj.CoreCompileInputs.cache
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.exe
+C:\Users\EtecVAV\Downloads\Monte_seu_Xratao\obj\Debug\Monte_seu_Xratao.pdb
